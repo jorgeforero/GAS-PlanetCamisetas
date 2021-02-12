@@ -1,4 +1,4 @@
-# GAS-PlanetCamisetas
+# Google Apps Script (GAS) Caso PlanetCamisetas
 
 Caso Planet Camisetas para demostrar el uso de Google Apps Script.
 
